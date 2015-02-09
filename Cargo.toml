@@ -1,0 +1,5 @@
+[package]
+
+name = "acetic"
+version = "0.0.1"
+authors = ["Jared Roesch <roeschinc@gmail.com>"]
