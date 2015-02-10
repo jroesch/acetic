@@ -3,3 +3,10 @@
 name = "acetic"
 version = "0.0.1"
 authors = ["Jared Roesch <roeschinc@gmail.com>"]
+
+[dependencies]
+log = "*"
+
+[[bin]]
+name = "acetic"
+path = "src/bin/acetic.rs"
